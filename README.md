@@ -1,3 +1,3 @@
 # Priyanshu
 This is my first repository 
-author - priyanshu
+author - priyanshu panday
